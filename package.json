@@ -1,0 +1,24 @@
+{
+  "name": "gitbook-plugin-auto-scroll-table",
+  "description": "gitbook table scroll",
+  "main": "index.js",
+  "version": "0.0.1",
+  "author": {
+    "name": "xnzone",
+    "email": "ixnzone@foxmail.com"
+  },
+  "keywords": [
+    "gitbook",
+    "gitbook-plugin",
+    "table",
+    "scroll"
+  ],
+  "engines": {
+    "gitbook": ">=2.4.3"
+  },
+  "homepage": "https://github.com/xnzone/gitbook-plugin-auto-scroll-table",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xnzone/gitbook-plugin-auto-scroll-table.git"
+  }
+}
